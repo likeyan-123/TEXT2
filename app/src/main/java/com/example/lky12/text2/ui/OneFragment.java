@@ -14,6 +14,7 @@ import com.example.lky12.text2.utils.PublicStaticClass;
 public class OneFragment extends Fragment {
     View mView;
 
+	//1111
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
